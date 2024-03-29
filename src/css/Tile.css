@@ -1,0 +1,10 @@
+.tile-container{
+   background-color: rgb(51, 63, 69);
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   width:120px;
+   height:120px;
+   box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+

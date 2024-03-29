@@ -1,0 +1,15 @@
+.tictactoe-container{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(122, 227, 192);
+    justify-content: flex-start;
+    align-items: center;
+    gap:1px;
+    height: 100vh;
+}
+.tictactoe-container h1{
+    text-align: center;
+}
+.tictactoe-container input{
+    width:50px;
+}
